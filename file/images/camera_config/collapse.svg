@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>展开</title>
+    <g id="SMore-Vilab-_运行平台_0420" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设置_相机设置1" transform="translate(-970.000000, -262.000000)">
+            <g id="编组-20" transform="translate(110.000000, 64.000000)">
+                <g id="编组-26" transform="translate(160.000000, 50.000000)">
+                    <g id="编组-10" transform="translate(680.000000, 134.000000)">
+                        <g id="展开" transform="translate(20.000000, 14.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                            <path d="M4.23842712,11.1265242 C3.94553391,11.4194174 3.47066017,11.4194174 3.17776695,11.1265242 C2.88487373,10.8336309 2.88487373,10.3587572 3.17776695,10.065864 L7.24363094,6 L3.17776695,1.93413601 C2.88487373,1.64124279 2.88487373,1.16636906 3.17776695,0.873475836 C3.47066017,0.580582618 3.94553391,0.580582618 4.23842712,0.873475836 L8.8346212,5.46966991 C9.12751442,5.76256313 9.12751442,6.23743687 8.8346212,6.53033009 L4.23842712,11.1265242 Z" id="路径" fill-opacity="0.5" fill="#000000" transform="translate(6.006194, 6.000000) translate(-6.006194, -6.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

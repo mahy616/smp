@@ -59,8 +59,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="common.cpp" />
+    <ClCompile Include="commstatuswidget.cpp" />
     <ClCompile Include="station.cpp" />
+    <ClCompile Include="statisticswidget.cpp" />
+    <ClCompile Include="statuswidget.cpp" />
+    <ClCompile Include="titlebarwidget.cpp" />
     <QtRcc Include="SMP.qrc" />
+    <QtUic Include="commstatuswidget.ui" />
     <QtUic Include="ImageWindow.ui" />
     <QtUic Include="SMP.ui" />
     <QtMoc Include="SMP.h" />
@@ -68,6 +73,9 @@
     <ClCompile Include="MyLabel.cpp" />
     <ClCompile Include="SMP.cpp" />
     <ClCompile Include="main.cpp" />
+    <QtUic Include="statisticswidget.ui" />
+    <QtUic Include="statuswidget.ui" />
+    <QtUic Include="titlebarwidget.ui" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="common.h" />
@@ -80,6 +88,18 @@
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="station.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="commstatuswidget.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="statuswidget.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="titlebarwidget.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="statisticswidget.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

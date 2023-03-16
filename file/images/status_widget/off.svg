@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>红</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F44747" offset="0%"></stop>
+            <stop stop-color="#FF8B8B" offset="12.0014192%"></stop>
+            <stop stop-color="#F44747" offset="38.5315019%"></stop>
+            <stop stop-color="#F44747" offset="85.6194087%"></stop>
+            <stop stop-color="#F44747" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="8" cy="8" r="8"></circle>
+    </defs>
+    <g id="SMore-Vilab-_运行平台_0510" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页_提示" transform="translate(-696.000000, -42.000000)">
+            <g id="通讯备份-3" transform="translate(536.000000, 35.000000)">
+                <g id="编组-10" transform="translate(82.000000, 7.000000)">
+                    <g id="红" transform="translate(78.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <path d="M10.8230224,2.98969095 C10.8230224,2.98969095 10.8230224,2.98969095 10.8230224,2.98969095 C11.7887125,3.53481102 12.5796429,4.35012426 13.0948179,5.33222321 C13.1609036,5.46595623 13.1060647,5.62794135 12.9723317,5.6940271 C12.970382,5.69499054 12.9684208,5.6959304 12.9664485,5.69684647 L12.1342562,6.08336474 C11.9833475,6.15345038 11.8039348,6.09484248 11.7235058,5.94918325 C11.7235058,5.94918325 11.7235058,5.94918325 11.7235058,5.94918325 C11.3490544,5.27104128 10.7940265,4.70503354 10.1228007,4.31715788 C10.0059668,4.25395936 9.96063253,4.1092674 10.0205165,3.99070043 L10.4723324,3.09612913 C10.5353862,2.97120263 10.6877878,2.92108583 10.8126974,2.98417318 C10.8161811,2.98593267 10.8196237,2.98777242 10.8230224,2.98969095 Z" id="路径" fill-opacity="0.698508523" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+                        <circle id="蒙版备份" stroke-opacity="0.12" stroke="#000000" mask="url(#mask-3)" cx="8" cy="8" r="7.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

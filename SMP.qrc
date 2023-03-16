@@ -1,4 +1,18 @@
 <RCC>
-    <qresource prefix="SMP">
+    <qresource prefix="/">
+	    <file>file/images/titlebar/ch.svg</file>
+        <file>file/images/titlebar/close.svg</file>
+        <file>file/images/titlebar/config.svg</file>
+        <file>file/images/titlebar/config_disabled.svg</file>
+        <file>file/images/titlebar/en.svg</file>
+        <file>file/images/titlebar/max.svg</file>
+        <file>file/images/titlebar/min.svg</file>
+        <file>file/images/titlebar/restore.svg</file>
+        <file>file/images/titlebar/version.svg</file>
+		<file>file/style/stylesheet.qss</file>
+		<file>file/images/status_widget/off.svg</file>
+        <file>file/images/status_widget/on.svg</file>
+        <file>file/images/status_widget/more.svg</file>
+        <file>file/images/status_widget/more_hover.svg</file>
     </qresource>
 </RCC>

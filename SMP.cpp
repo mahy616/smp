@@ -16,18 +16,21 @@ void SMP::init()
 void SMP::initWidgets()
 {
 	ui->setupUi(this);
-	//m_ImagesWindow = new QGridLayout(ui->widget);
-	//QVBoxLayout *layouts = new QVBoxLayout(this);
-
-	//layouts->setContentsMargins(0, 0, 0, 0);
+	setWindowFlags(Qt::FramelessWindowHint);
 	m_station = new station(1);
-	
-	
-	//layouts->addLayout(m_ImagesWindow);
-	//ui->widget->setLayout(m_ImagesWindow);
 	ui->layout->addWidget(m_station->m_window);
 
-	//setWindowFlags(Qt::FramelessWindowHint);
+	m_comm_widget = new CommStatusWidget();
+	ui->status_layout->addWidget(m_comm_widget);
+
+	m_titlebar_widget = new TitleBarWidget("SmartMore", ":/uiframe/images/titlebar/logo.svg",this);
+	ui->titlebar_layout->addWidget(m_titlebar_widget);
+
+	m_statistics_widget = new StatisticsWidget;
+	ui->others_layout->addWidget(m_statistics_widget);
+
+
+
 }
 
 void SMP::initConnects()

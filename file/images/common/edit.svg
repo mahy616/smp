@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编辑</title>
+    <g id="编辑" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <polyline id="路径" stroke="#006DB2" stroke-width="1.5" points="17 10 17 17 3 17 3 3 10 3"></polyline>
+        <g id="编组" transform="translate(11.560660, 8.439340) rotate(-135.000000) translate(-11.560660, -8.439340) translate(10.060660, 1.439340)" stroke="#006DB2" stroke-width="1.5">
+            <rect id="矩形" x="-9.09494702e-13" y="3" width="3" height="11"></rect>
+            <polygon id="矩形备份" transform="translate(1.500000, 1.500000) scale(1, -1) translate(-1.500000, -1.500000) " points="0 0 3 0 1.5 3"></polygon>
+        </g>
+    </g>
+</svg>

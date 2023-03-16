@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>导航/光源设置</title>
+    <g id="导航/光源设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="光源" transform="translate(2.000000, 1.000000)" fill-rule="nonzero">
+            <line x1="8" y1="0" x2="8" y2="1.5" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+            <circle id="椭圆形" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" cx="8" cy="8" r="6"></circle>
+            <line x1="14.2786842" y1="3.625" x2="14.2786842" y2="5.125" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.278684, 4.375000) rotate(60.000000) translate(-14.278684, -4.375000) "></line>
+            <line x1="14.2786842" y1="10.875" x2="14.2786842" y2="12.375" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.278684, 11.625000) rotate(120.000000) translate(-14.278684, -11.625000) "></line>
+            <line x1="8" y1="14.5" x2="8" y2="16" id="路径-7" stroke="#000000" stroke-width="1.5" opacity="0" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.000000, 15.250000) rotate(180.000000) translate(-8.000000, -15.250000) "></line>
+            <line x1="1.72131582" y1="10.875" x2="1.72131582" y2="12.375" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.721316, 11.625000) rotate(240.000000) translate(-1.721316, -11.625000) "></line>
+            <line x1="1.72131582" y1="3.625" x2="1.72131582" y2="5.125" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.721316, 4.375000) rotate(300.000000) translate(-1.721316, -4.375000) "></line>
+            <circle id="椭圆形" fill="#000000" opacity="0" transform="translate(8.000000, 8.000000) rotate(180.000000) translate(-8.000000, -8.000000) " cx="8" cy="8" r="1"></circle>
+            <polyline id="路径" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" points="11 13 9.5 16.5 6.5 16.5 5 13"></polyline>
+            <line x1="8" y1="17" x2="8" y2="17.5" id="路径-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

@@ -52,6 +52,18 @@
     <ClCompile Include="station.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="commstatuswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="statuswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="titlebarwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="statisticswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="common.h">
@@ -66,9 +78,33 @@
     <QtMoc Include="station.h">
       <Filter>Header Files</Filter>
     </QtMoc>
+    <QtMoc Include="commstatuswidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="statuswidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="titlebarwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="statisticswidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
   </ItemGroup>
   <ItemGroup>
     <QtUic Include="ImageWindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="commstatuswidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="statuswidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="titlebarwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="statisticswidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
   </ItemGroup>
