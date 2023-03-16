@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (H:/QT/5.14.1/msvc2017_64/bin/qmake)
+  moc ImageWindow.h
+  ImageWindow.cpp
+  SMP.cpp
+  main.cpp
+  station.cpp
+  moc_ImageWindow.cpp
+  moc_SMP.cpp
+  moc_station.cpp
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“qtmain.pdb”(使用“qtmain.lib(qtmain_win.obj)”或在“C:\Users\Mhy\source\repos\SMP\x64\Release\qtmain.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  SMP.vcxproj -> C:\Users\Mhy\source\repos\SMP\x64\Release\SMP.exe
