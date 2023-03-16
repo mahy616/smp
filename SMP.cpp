@@ -23,7 +23,7 @@ void SMP::initWidgets()
 	m_comm_widget = new CommStatusWidget();
 	ui->status_layout->addWidget(m_comm_widget);
 
-	m_titlebar_widget = new TitleBarWidget("SmartMore", ":/uiframe/images/titlebar/logo.svg",this);
+	m_titlebar_widget = new TitleBarWidget("SmartMore", ":/f/images/titlebar/logo.svg",this);
 	ui->titlebar_layout->addWidget(m_titlebar_widget);
 
 	m_statistics_widget = new StatisticsWidget;

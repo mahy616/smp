@@ -60,12 +60,16 @@
   <ItemGroup>
     <ClCompile Include="common.cpp" />
     <ClCompile Include="commstatuswidget.cpp" />
+    <ClCompile Include="configdialog.cpp" />
+    <ClCompile Include="settingpage.cpp" />
     <ClCompile Include="station.cpp" />
     <ClCompile Include="statisticswidget.cpp" />
     <ClCompile Include="statuswidget.cpp" />
+    <ClCompile Include="titlebar.cpp" />
     <ClCompile Include="titlebarwidget.cpp" />
     <QtRcc Include="SMP.qrc" />
     <QtUic Include="commstatuswidget.ui" />
+    <QtUic Include="configdialog.ui" />
     <QtUic Include="ImageWindow.ui" />
     <QtUic Include="SMP.ui" />
     <QtMoc Include="SMP.h" />
@@ -100,6 +104,13 @@
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="statisticswidget.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="configdialog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="settingpage.h" />
+    <QtMoc Include="titlebar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

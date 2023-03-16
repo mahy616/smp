@@ -4,7 +4,7 @@
 #include <QDesktopWidget>
 #include <QMainWindow>
 #include <QMouseEvent>
-
+#include "configdialog.h"
 TitleBarWidget::TitleBarWidget(QWidget *parent) : QWidget(parent), ui(new Ui::TitleBarWidget), m_parent(parent)
 {
     init();
@@ -75,15 +75,15 @@ void TitleBarWidget::initConnects()
 
 void TitleBarWidget::on_settings_btn_clicked()
 {
-    //ConfigDialog config_dialog;
-    //if (config_dialog.exec() == QDialog::Accepted)
-    //{
-    //    vilab::config::ConfigManager::saveToFile();
-    //}
-    //else
-    //{
-    //    vilab::config::ConfigManager::loadFromFile();
-    //}
+    ConfigDialog config_dialog;
+    if (config_dialog.exec() == QDialog::Accepted)
+    {
+      //  vilab::config::ConfigManager::saveToFile();
+    }
+    else
+    {
+        //vilab::config::ConfigManager::loadFromFile();
+    }
 }
 
 void TitleBarWidget::on_lang_btn_clicked()

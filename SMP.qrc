@@ -14,5 +14,6 @@
         <file>file/images/status_widget/on.svg</file>
         <file>file/images/status_widget/more.svg</file>
         <file>file/images/status_widget/more_hover.svg</file>
+		<file>file/images/titlebar/logo.svg</file>
     </qresource>
 </RCC>
